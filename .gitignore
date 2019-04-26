@@ -1,8 +1,8 @@
 # ignore executable
 geckodriver*
 
-# ignore fcc query results
-*UL201932915978*
+# ignore cached data
+data-cache/*
 
 # Created by https://www.gitignore.io/api/macos,jupyternotebook,vim
 # Edit at https://www.gitignore.io/?templates=macos,jupyternotebook,vim
